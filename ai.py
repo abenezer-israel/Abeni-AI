@@ -7,7 +7,7 @@ import google.generativeai as genai
 import datetime
 
 # 🔑 YOUR API KEY
-API_KEY = "AIzaSyANW6YHs4mjMhW257V0_pyE-QQu7LFgWfg"
+API_KEY = "××××××××××××××××××××××@"
 
 class AbeniAI:
     def __init__(self):
