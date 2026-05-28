@@ -10,7 +10,7 @@ import os
 import time
 
 # 🔑 YOUR API KEY
-API_KEY = "AIzaSyANW6YHs4mjMhW257V0_pyE-QQu7LFgWfg"
+API_KEY = "×××××××××××××××××××××××"
 
 # ============================================
 # MODERN UI DESIGN
